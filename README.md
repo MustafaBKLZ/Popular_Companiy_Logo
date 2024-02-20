@@ -61,8 +61,3 @@ Other logos will be added over time, but I cannot promise a time. I am open to s
         templateResult: formatState
     });
 </script>
-
-  
-
-
-  
