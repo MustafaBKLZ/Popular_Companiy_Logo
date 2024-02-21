@@ -5,7 +5,7 @@ Query to create a table containing the names, site urls and black and white svg 
 
 This table was created using mysql with phpmyadmin, but it contains a table create script as an sql file.
 
-Currently, 53 logos have been shared as svg with only the black and white option included. Original color logos and more company/application logos will be added over time.
+Currently, 75 logos have been shared as svg with only the black and white option included. Original color logos and more company/application logos will be added over time.
 
 
 
